@@ -1,24 +1,5 @@
-# README
+# Heroku deployment Test App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this app is to test deployment on a number of hosting providers, Heroku being the first.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you would like to use this as a deployment test app too. Follow these instructions.
